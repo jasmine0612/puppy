@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>我家小狗超可愛！</title>
+  <style>
+    body {
+      background-color: #fffdf7;
+      font-family: "Arial", sans-serif;
+      text-align: center;
+      padding: 20px;
+    }
+    h1 {
+      color: #444;
+    }
+    iframe {
+      width: 100%;
+      max-width: 360px;
+      height: 640px;
+      border: none;
+      border-radius: 16px;
+      margin-top: 20px;
+      box-shadow: 0 0 12px rgba(0,0,0,0.1);
+    }
+  </style>
+</head>
+<body>
+  <h1>🐶 我家小狗超可愛！</h1>
+  <p>這是他最可愛的瞬間（點開影片）👇</p>
+  <iframe src="https://www.youtube.com/embed/VwDhH0mewPk" allowfullscreen></iframe>
+</body>
+</html>
