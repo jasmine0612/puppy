@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>我家小狗超可愛！</title>
+  <title>來看重機</title>
   <style>
     body {
       background-color: #fffdf7;
@@ -26,8 +26,8 @@
   </style>
 </head>
 <body>
-  <h1>🐶 我家小狗超可愛！</h1>
-  <p>這是他最可愛的瞬間（點開影片）👇</p>
+  <h1>重機影片</h1>
+  <p>學習重機知識（點開影片）👇</p>
   <iframe src="https://www.youtube.com/embed/VwDhH0mewPk" allowfullscreen></iframe>
 </body>
 </html>
